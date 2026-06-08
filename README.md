@@ -35,12 +35,5 @@ Este proyecto proporciona la base del código fuente inicial (`boilerplate`) est
 - Creación de los modelos de datos y lógica (`Habit.kt`, `HabitRepository.kt`).
 - Diseño e implementación de las interfaces visuales XML (Dashboard, Lista de Hábitos, Dialog de creación).
 - Configuración de la lógica principal de la app en `MainActivity.kt` y `HabitAdapter.kt`.
-
----
-
-## Instrucciones para Compilar y Ejecutar
-1. Abre **Android Studio**.
-2. Selecciona `File > Open` y navega hasta la carpeta raíz de este proyecto.
-3. Espera a que Gradle sincronice las dependencias.
 4. Conecta un dispositivo físico o inicia un Emulador de Android.
 5. Haz clic en el botón verde de **Run** (o presiona `Shift + F10`) para compilar y ejecutar la app.
